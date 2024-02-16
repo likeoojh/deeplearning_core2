@@ -1,6 +1,6 @@
 ## deeplearning_core2
 가장 베이직한 딥러닝 아키텍처로 mnist 분류 실습
-<br>>
+<br>
 
 ## 실행예제
 '''
