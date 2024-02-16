@@ -3,6 +3,6 @@
 <br>
 
 ## 실행예제
-'''
+```
 python train.py --model_fn mode.pth --gpu_id -1 --batch_size 512 --n_epoch 20 --verbose 2
-'''
+```
